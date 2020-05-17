@@ -1,5 +1,5 @@
 import requests, sys, time, os, argparse
-
+#This is a Subterra code, modified by Ariff Rahimin
 # List of simple to collect features
 snippet_features = ["title",
                     "publishedAt",
