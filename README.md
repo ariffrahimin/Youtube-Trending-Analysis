@@ -4,4 +4,9 @@
 
 2. After the scraper has run. The scrapped data will written in the output file.
 
-3. PLease note that this scraper scrape the trending videos from MALAYSIA. If you want to scrape from other country, change the country code in country_code file
+3. The country code is as below:
+MY =  Malaysia
+SG =  Singapore
+ID =  Indonesia
+GB =  United Kingdom
+US =  United States of America
